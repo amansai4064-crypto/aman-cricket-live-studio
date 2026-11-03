@@ -1,0 +1,6 @@
+{
+  "name": "Aman Cricket Live Studio",
+  "description": "Professional cricket live streaming, broadcasting, live scoring, analytics, OBS overlays, subscription plans, single-level referral program, and earnings dashboard by Aman Vlogs Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
